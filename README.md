@@ -13,3 +13,7 @@ The `-o` option is optional. If not specified, the output file will be the same 
 ```
 ./csv2parquet -i file1.csv
 ```
+
+# Related Projects
+
+[arrow-tools](https://github.com/domoritz/arrow-tools)
